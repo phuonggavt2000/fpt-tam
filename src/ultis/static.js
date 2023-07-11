@@ -184,37 +184,34 @@ export const internetProducts = [
     {
         type: "internet",
         title: "Giga",
-        price: "168.000",
+        price: "164.000",
         img: imgProduct.giga,
         desc: "Tốc độ Download 150 Mbps",
         subDesc: "Tốc độ Upload 150 Mbps",
         obj: "Phù hợp với cá nhân/ Hộ gia đình",
         gift: "Trang bị Modem 2 băng tần Wifi 5G và 2.4Ghz",
-        giftPlus: "Miễn phí lắp đặt",
         isRecommend: true,
     },
     {
         type: "internet",
         title: "Sky",
-        price: "227.000",
+        price: "218.000",
         img: imgProduct.sky,
         desc: "Tốc độ download không giới hạn phụ thuộc vào thiết bị lên tới 1 Gbps",
         subDesc: "Tốc độ Upload 150 Mbps",
         obj: "Phù hợp với hộ gia đình lớn",
         gift: "Trang bị Modem 2 băng tần Wifi 5G và 2.4Ghz",
-        giftPlus: "Miễn phí lắp đặt",
         isRecommend: true,
     },
     {
         type: "internet",
         title: "Meta",
-        price: "318.000",
+        price: "309.000",
         img: imgProduct.meta,
         desc: "Tốc độ download & upload không giới hạn phụ thuộc vào thiết bị lên tới 1 Gbps",
         subDesc: "",
         obj: "Phù hợp với cá nhân/ Hộ gia đình",
         gift: "Trang bị Modem 2 băng tần Wifi 5G và 2.4Ghz",
-        giftPlus: "Miễn phí lắp đặt",
     },
     {
         type: "internet",
@@ -225,7 +222,6 @@ export const internetProducts = [
         subDesc: "Tốc độ Upload 150 Mbps",
         obj: "Sử dụng modem Wi-Fi 6",
         gift: "Tích hợp gói hỗ trợ Game thủ - Ultrafast",
-        giftPlus: "Miễn phí lắp đặt",
     },
     {
         type: "internet",
@@ -236,7 +232,6 @@ export const internetProducts = [
         subDesc: "",
         obj: "Sử dụng modem Wi-Fi 6",
         gift: "Tích hợp gói hỗ trợ Game thủ - Ultrafast",
-        giftPlus: "Miễn phí lắp đặt",
     },
 ];
 
@@ -244,7 +239,7 @@ export const comboProducts = [
     {
         type: "combo",
         title: "Giga",
-        price: "176.000",
+        price: "209.000",
         img: imgProduct.giga,
         desc: "Tốc độ Download 150 Mbps",
         subDesc: "Tốc độ Upload 150 Mbps",
@@ -256,7 +251,7 @@ export const comboProducts = [
     {
         type: "combo",
         title: "Sky",
-        price: "255.000",
+        price: "241.000",
         img: imgProduct.sky,
         desc: "Tốc độ download không giới hạn phụ thuộc vào thiết bị lên tới 1 Gbps",
         subDesc: "Tốc độ Upload 150 Mbps",
@@ -268,7 +263,7 @@ export const comboProducts = [
     {
         type: "combo",
         title: "Meta",
-        price: "345.000",
+        price: "332.000",
         img: imgProduct.meta,
         desc: "Tốc độ download & upload không giới hạn phụ thuộc vào thiết bị lên tới 1 Gbps",
         subDesc: "",
@@ -311,7 +306,6 @@ export const internetBusinesss = [
         obj: "Phù hợp với cá nhân, doanh nghiệp nhỏ",
         objPlus: "(< 50 thiết bị)",
         gift: "Trang bị Modem cân bằng tải Cty và thiết bị phát Wifi",
-        giftPlus: "Miễn phí lắp đặt",
         isRecommend: true,
     },
     {
@@ -324,7 +318,6 @@ export const internetBusinesss = [
         obj: "Phù hợp với cá nhân, doanh nghiệp nhỏ",
         objPlus: "(< 70 thiết bị)",
         gift: "Trang bị Modem cân bằng tải Cty và thiết bị phát Wifi",
-        giftPlus: "Miễn phí lắp đặt",
         isRecommend: true,
     },
     {
@@ -337,7 +330,6 @@ export const internetBusinesss = [
         obj: "Phù hợp với cá nhân, doanh nghiệp nhỏ",
         objPlus: "(< 100 thiết bị)",
         gift: "Trang bị Modem cân bằng tải Cty và thiết bị phát Wifi",
-        giftPlus: "Miễn phí lắp đặt",
     },
     {
         type: "business",
@@ -349,7 +341,6 @@ export const internetBusinesss = [
         obj: "Phù hợp với cá nhân, doanh nghiệp vừa",
         objPlus: "(< 125 thiết bị)",
         gift: "Trang bị Modem Wi-Fi 6 và thiết bị mở rộng sóng WI-FI 6",
-        giftPlus: "Miễn phí lắp đặt",
     },
     {
         type: "business",
@@ -361,7 +352,6 @@ export const internetBusinesss = [
         obj: "Phù hợp với cá nhân, doanh nghiệp vừa",
         objPlus: "(< 160 thiết bị)",
         gift: "Trang bị Modem Wi-Fi 6 và thiết bị mở rộng sóng WI-FI 6",
-        giftPlus: "Miễn phí lắp đặt",
     },
 ];
 
@@ -805,7 +795,6 @@ export const iclouds = [
             "• 1 ngày lưu trữ toàn bộ",
             "• Phát hiện người nhờ AI",
             "• Miễn phí bảo trì",
-            "• Miễn phí bảo trì",
         ],
         price: "22.000đ",
         border: "border-[#31b5ba]",
@@ -817,7 +806,6 @@ export const iclouds = [
             "• Chất lượng Full HD",
             "• 3 ngày lưu trữ toàn bộ",
             "• Phát hiện người nhờ AI",
-            "• Miễn phí bảo trì",
             "• Miễn phí bảo trì",
         ],
         price: "44.000đ",
@@ -831,7 +819,6 @@ export const iclouds = [
             "• Chất lượng Full HD",
             "• 7 ngày lưu trữ toàn bộ",
             "• Phát hiện người nhờ AI",
-            "• Miễn phí bảo trì",
             "• Miễn phí bảo trì",
         ],
         price: "99.000đ",
